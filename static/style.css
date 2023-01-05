@@ -1,0 +1,135 @@
+
+body {
+  background-image: url('imgs/Background.jpeg');
+}
+p{
+  color: white;
+}
+#div1{
+   padding-left: 0;
+    padding-right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 800px;
+  height: 750px;
+  position:relative;
+  color: white;
+  background: #121212; 
+  text-align:center;
+}
+
+.mysection {
+   background-color: #301934;
+  text-align:center ;
+  color:white;
+   width: 100%;
+   height: 90px;
+  position: relative;
+  top: -18px;
+   left: 0px;
+Border: solid #bebebe;
+  font-family: arial;
+}
+#btn1{
+height:35px; 
+    width:130px; 
+     margin: 0px -70px ; 
+  position: relative;
+    top:-17px; 
+    left:38%;
+  background-color: #121212;
+  color: #f0f0f0;
+  font-family : verdana;
+    font-size: 1em;
+  border: #3d0779 solid;
+  border-radius: 8px;
+}
+#btn2{
+  height:35px; 
+    width:130px; 
+     margin: 0px -70px ; 
+  position: relative;
+    top:-17px; 
+    left:50%;
+  background-color: #121212;
+  color: #f0f0f0;
+  font-family : verdana;
+    font-size: 1em;
+  border: #3d0779 solid;
+  border-radius: 8px;
+}  
+#btn3{
+    height:35px; 
+    width:130px; 
+     margin: 0px -70px ; 
+  position: relative;
+    top:-17px; 
+    left:26%;
+  background-color: #121212;
+  color: #f0f0f0;
+  font-family : verdana;
+    font-size: 1em;
+  border: #3d0779 solid;
+  border-radius: 8px;
+}
+#img1{
+  float: left;
+  height: 150%;
+}
+#img2{
+  float: right;
+   transform: scaleX(-1);
+  height: 150%;
+}
+#btn4{
+   height:35px; 
+    width:130px; 
+     margin: 0px -70px ; 
+  position: relative;
+    top:-17px; 
+    left:50%;
+  background-color: #121212;
+  color: #f0f0f0;
+  font-family : verdana;
+    font-size: 1em;
+  border: #3d0779 solid;
+  border-radius: 8px;
+}  
+#btn4{
+    height:35px; 
+    width:130px; 
+     margin: 0px -70px ; 
+  position: relative;
+    top:-17px; 
+    left:35%;
+  background-color: #121212;
+  color: #f0f0f0;
+  font-family : verdana;
+    font-size: 1em;
+  border: #3d0779 solid;
+  border-radius: 8px;
+}
+#img3{
+  left:85%;
+}
+#img4{
+   display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+#btn5{
+    height:35px; 
+    width:130px; 
+     margin: 0px -70px ; 
+  position: relative;
+    top:-17px; 
+    left:65%;
+  background-color: #121212;
+  color: #f0f0f0;
+  font-family : verdana;
+    font-size: 1em;
+  border: #3d0779 solid;
+  border-radius: 8px;
+}
